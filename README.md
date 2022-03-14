@@ -1,5 +1,7 @@
 # Encrypted Keylogger
 
+## Preview
+
 ![](encrypted-keylogger-animation.gif)
 
 ## IMPORTANT NOTICE
