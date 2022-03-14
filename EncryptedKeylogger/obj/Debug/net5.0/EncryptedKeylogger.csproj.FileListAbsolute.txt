@@ -1,0 +1,16 @@
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\bin\Debug\net5.0\EncryptedKeylogger.exe
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\bin\Debug\net5.0\EncryptedKeylogger.deps.json
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\bin\Debug\net5.0\EncryptedKeylogger.runtimeconfig.json
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\bin\Debug\net5.0\EncryptedKeylogger.runtimeconfig.dev.json
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\bin\Debug\net5.0\EncryptedKeylogger.dll
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\bin\Debug\net5.0\ref\EncryptedKeylogger.dll
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\bin\Debug\net5.0\EncryptedKeylogger.pdb
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\obj\Debug\net5.0\EncryptedKeylogger.csproj.AssemblyReference.cache
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\obj\Debug\net5.0\EncryptedKeylogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\obj\Debug\net5.0\EncryptedKeylogger.AssemblyInfoInputs.cache
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\obj\Debug\net5.0\EncryptedKeylogger.AssemblyInfo.cs
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\obj\Debug\net5.0\EncryptedKeylogger.csproj.CoreCompileInputs.cache
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\obj\Debug\net5.0\EncryptedKeylogger.dll
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\obj\Debug\net5.0\ref\EncryptedKeylogger.dll
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\obj\Debug\net5.0\EncryptedKeylogger.pdb
+C:\Users\maximiliensl\Documents\GitHub\encrypted-keylogger\EncryptedKeylogger\obj\Debug\net5.0\EncryptedKeylogger.genruntimeconfig.cache
